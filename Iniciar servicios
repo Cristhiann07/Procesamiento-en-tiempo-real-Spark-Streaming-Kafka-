@@ -1,0 +1,2 @@
+sudo /opt/Kafka/bin/zookeeper-server-start.sh /opt/Kafka/config/zookeeper.properties &
+sudo /opt/Kafka/bin/kafka-server-start.sh /opt/Kafka/config/server.properties &
